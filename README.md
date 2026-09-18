@@ -702,3 +702,13 @@ R2T2 uses **dual licensing** to distinguish the source code from the model weigh
 
 - **Code** in this repository is released under the [Apache License 2.0](./LICENSE) and is free to use, modify, and redistribute (including commercially) under the terms of that license.
 - **Model weights** are released under the [NetEase Model Use License Agreement](MODEL_LICENSE).
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=netease-youdao%2Fconfucius4-r2t2&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=netease-youdao/confucius4-r2t2&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=netease-youdao/confucius4-r2t2&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=netease-youdao/confucius4-r2t2&type=date&legend=top-left" />
+ </picture>
+</a>

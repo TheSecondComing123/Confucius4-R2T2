@@ -704,3 +704,13 @@ R2T2 采用**双重许可**，以区分源代码与模型权重：
 
 - 本仓库中的**代码**依据 [Apache License 2.0](./LICENSE) 发布，可在该许可证条款下自由使用、修改和再分发（包括商业用途）。
 - **模型权重** 模型权重的使用须遵守 [NetEase Model Use License Agreement](./MODEL_LICENSE_zh)
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=netease-youdao%2Fconfucius4-r2t2&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=netease-youdao/confucius4-r2t2&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=netease-youdao/confucius4-r2t2&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=netease-youdao/confucius4-r2t2&type=date&legend=top-left" />
+ </picture>
+</a>
